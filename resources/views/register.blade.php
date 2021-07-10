@@ -84,7 +84,7 @@
           </div>
 
           <div class="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
-            <img src="img/reg.jpeg" class="img-fluid" alt="">
+            <img src="img/reg.jfif" class="img-fluid" alt="">
           </div>
         </div>
       </div>

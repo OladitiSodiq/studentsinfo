@@ -4,11 +4,14 @@
     <div class="logo float-left">
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> -->
-      <a href="#intro" class="scrollto"><img src="img/logo.jpg" alt="" class="img-fluid"></a>
+      <a href="#intro" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"> </a>
     </div>
 
     <nav class="main-nav float-right d-none d-lg-block">
       <ul>
+        <li class="active">  <h5 class="content-group" style="font-family:Verdana; font-size:20px; color:#009966;"><strong>ADESEUN OGUNDOYIN POLYTECHNIC ERUWA</strong></li>
+        
+
         <li class="active"><a href="/">Home</a></li>
         @if(!Session::get('username'))
      
